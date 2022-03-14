@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CptGeo, a Fullstack Web Developer with high expectations
+- 👋 Hi, I’m @CptGeo, working as a Software Engineer II at Honeywell International
 - 👀 I’m interested in programming languages, web apps and innovative project ideas
-- 🌱 I’m currently learning React Native for the purposes of my bachelor thesis
+- 🌱 I’m currently learning Angular Framework and Ionic
 - 💞️ I’m looking to collaborate on any open source project that my knowledge would be of use
 - 📫 How to reach me : georgekalyvianakis18@gmail.com or george.kalyvianakis@gmail.com
 
