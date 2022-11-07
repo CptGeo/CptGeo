@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @CptGeo, working as a Software Engineer II at Honeywell International
+- 👋 Hi, I’m George Kalyvianakis, a Greek guy working as a Software Engineer II at Honeywell International.
+- 🏠 Currently located in Brno, Czech Republic
 - 👀 I’m interested in programming languages, web apps and innovative project ideas
 - 🌱 I’m currently doing my Msc. Information Systems
 - 💞️ I’m looking to collaborate on any open source project that my knowledge would be of use
