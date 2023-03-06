@@ -1,4 +1,4 @@
-- 👋 Hi, I’m George Kalyvianakis, a Greek guy working as a Software Engineer II at Honeywell International.
+- 👋 Hi, I’m George Kalyvianakis, a Greek guy working as a Engineer Development at Siemens Advanta.
 - 🏠 Currently located in Brno, Czech Republic
 - 👀 I’m interested in programming languages, web apps and innovative project ideas
 - 🌱 I’m currently doing my Msc. Information Systems
