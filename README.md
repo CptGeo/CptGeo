@@ -1,10 +1,25 @@
-- 👋 Hi, I’m George Kalyvianakis, a Greek guy working as a Engineer Development at Siemens Advanta.
-- 🏠 Currently located in Brno, Czech Republic
-- 👀 I’m interested in programming languages, web apps and innovative project ideas
-- 🌱 I’m currently doing my Msc. Information Systems
-- 💞️ I’m looking to collaborate on any open source project that my knowledge would be of use
-- 📫 How to reach me : georgekalyvianakis18@gmail.com or george.kalyvianakis@gmail.com
-<!--
-CptGeo/CptGeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Intro
+Hi there! I'm George Kalyvianakis. I'm passionate about web development, and I like working on exciting projects that solve real-world problems. Currently, I'm focused on the development of [Estiator.io](https://estiator.io), an open-source project for the management of restaurants and food related services.
+
+Feel free to browse my repos and reach out if you want to collaborate or chat about anything. Thanks for checking out.
+
+## Tech Stack:     
+
+![Static Badge](https://img.shields.io/badge/javascript-grey?logo=javascript)
+![Static Badge](https://img.shields.io/badge/typescript-grey?logo=typescript)
+![Static Badge](https://img.shields.io/badge/react-grey?logo=react)
+![Static Badge](https://img.shields.io/badge/nextjs-grey?logo=nextdotjs)
+![Static Badge](https://img.shields.io/badge/php-grey?logo=php)
+![Static Badge](https://img.shields.io/badge/nodejs-grey?logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/git-grey?logo=git)
+![Static Badge](https://img.shields.io/badge/docker-grey?logo=docker)
+
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CptGeo)](https://git.io/streak-stats)
+
+
+## Contact
+[![Static Badge](https://img.shields.io/badge/george.kalyvianakis%40gmail.com-grey?style=social&logo=mailgun)](mailto://george.kalyvianakis@gmail.com)  
+[![Static Badge](https://img.shields.io/badge/georgekalyvianakis18%40gmail.com-grey?style=social&logo=mailgun)](mailto://georgekalyvianakis18@gmail.com)  
+[![Static Badge](https://img.shields.io/badge/kalyvianakis-grey?style=social&logo=x)](https://x.com/kalyvianakis) 
+
