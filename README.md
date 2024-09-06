@@ -10,6 +10,8 @@ Feel free to browse my repos and reach out if you want to collaborate or chat ab
 ![Static Badge](https://img.shields.io/badge/react-grey?logo=react)
 ![Static Badge](https://img.shields.io/badge/nextjs-grey?logo=nextdotjs)
 ![Static Badge](https://img.shields.io/badge/php-grey?logo=php)
+![Static Badge](https://img.shields.io/badge/java-grey?logo=openjdk)
+![Static Badge](https://img.shields.io/badge/spring-boot-grey?logo=springboot)
 ![Static Badge](https://img.shields.io/badge/nodejs-grey?logo=nodedotjs)
 ![Static Badge](https://img.shields.io/badge/git-grey?logo=git)
 ![Static Badge](https://img.shields.io/badge/docker-grey?logo=docker)
