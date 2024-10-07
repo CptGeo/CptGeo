@@ -1,5 +1,5 @@
 ## Intro
-Hi there! I'm George Kalyvianakis. I'm passionate about web development, and I like working on exciting projects that solve real-world problems. Currently, I'm focused on the development of [Estiator.io](https://estiator.io), an open-source project for the management of restaurants and food related services.
+Hi there! I'm George Kalyvianakis. I'm passionate about web development, and I like working on exciting projects that solve real-world problems. Currently, I'm focused on the development of [Estiator.io](https://github.com/CptGeo/estiator), an open-source project for the management of restaurants and food related services.
 
 Feel free to browse my repos and reach out if you want to collaborate or chat about anything. Thanks for checking out.
 
