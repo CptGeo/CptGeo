@@ -17,7 +17,7 @@ Feel free to browse my repos and reach out if you want to collaborate or chat ab
 ![Static Badge](https://img.shields.io/badge/docker-grey?logo=docker)
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=CptGeo&card_height=170)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CptGeo&card_height=170&theme=dark)](https://git.io/streak-stats)
 
 ## Contact
 [![Static Badge](https://img.shields.io/badge/george.kalyvianakis%40gmail.com-grey?style=social&logo=mailgun)](mailto://george.kalyvianakis@gmail.com)  
