@@ -21,6 +21,8 @@ Feel free to browse my repos and reach out if you want to collaborate or chat ab
 
 [![LeetCode user MgOonHgj1x](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMgOonHgj1x&logo=leetcode&logoColor=yellow)](https://leetcode.com/MgOonHgj1x/)
 
+[![LeetCode badges of user MgOonHgj1x](https://leetcode-badge-showcase.vercel.app/api?username=MgOonHgj1x&theme=dark&filter=study&border=border&animated=true)](https://leetcode.com/MgOonHgj1x/)
+
 ## Contact
 [![Static Badge](https://img.shields.io/badge/george.kalyvianakis%40gmail.com-grey?style=social&logo=mailgun)](mailto://george.kalyvianakis@gmail.com)  
 [![Static Badge](https://img.shields.io/badge/georgekalyvianakis18%40gmail.com-grey?style=social&logo=mailgun)](mailto://georgekalyvianakis18@gmail.com)  
