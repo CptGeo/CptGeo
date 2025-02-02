@@ -3,7 +3,7 @@ Hi there! I'm George Kalyvianakis. I'm passionate about web development, and I l
 
 Feel free to browse my repos and reach out if you want to collaborate or chat about anything. Thanks for checking out.
 
-<sub>* I have recently made **Estiator.io** project private. This was a desision I had to make in order to protect the integrity of my Msc. thesis from plagiarism in case there is some fork on my repository. The repository will be public again, as soon as the thesis is completed, submitted and graded.</sub>  
+<sub>* I have recently made **Estiator.io** project private. This was a desision I had to make in order to protect the integrity of my Msc. thesis from plagiarism in case there was some fork on my repository. The repository will be public again, as soon as the thesis is completed, submitted and graded.</sub>  
 
 ## Tech Stack:     
 
