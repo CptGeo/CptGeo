@@ -1,9 +1,8 @@
 ## Intro
-Hi there! I'm George Kalyvianakis. I'm passionate about web development, and I like working on exciting projects that solve real-world problems. Currently, I'm focused on the development of Estiator.io*, an open-source project for the management of restaurants and food related services.
+Hi there! I'm George Kalyvianakis. I'm passionate about web development, and I like working on exciting projects that solve real-world problems. Recently, I developed [Estiator.io](https://github.com/CptGeo/estiator)*, an open-source project for the management of restaurants and food related services.
 
 Feel free to browse my repos and reach out if you want to collaborate or chat about anything. Thanks for checking out.
 
-<sub>* I have recently made **Estiator.io** project private. This was a desision I had to make in order to protect the integrity of my Msc. thesis from plagiarism in case there was some fork on my repository. The repository will be public again, as soon as the thesis is completed, submitted and graded.</sub>  
 
 ## Tech Stack:     
 
